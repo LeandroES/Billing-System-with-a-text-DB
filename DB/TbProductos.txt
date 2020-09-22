@@ -1,0 +1,2 @@
+1	AZUCAR X 1KGG	80	2.3
+2	arroz	100	90.0
